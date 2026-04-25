@@ -1,0 +1,101 @@
+,Date,headline,sentiment_mean,sentiment_pos,sentiment_neg
+0,2018-01-24 08:00:00,Apple announces effortless solution bringing health records to iPhone - Apple,0.5574,0.18,0.0
+1,2018-04-09 07:00:00,Apple now globally powered by 100 percent renewable energy - Apple,0.2732,0.087,0.0
+2,2018-04-19 07:00:00,Apple adds Earth Day donations to trade-in and recycling program - Apple,0.0,0.0,0.0
+3,2018-07-05 07:00:00,The App Store turns 10 - Apple,0.0,0.0,0.0
+4,2018-07-12 07:00:00,Apple updates MacBook Pro with faster performance and new features for pros - Apple,0.0,0.0,0.0
+5,2019-06-03 07:00:00,Apple previews iOS 13 - Apple,0.0,0.0,0.0
+6,2019-06-27 07:00:00,Jony Ive to form independent design company with Apple as client - Apple,0.0,0.0,0.0
+7,2019-08-20 07:00:00,Apple Card launches today for all US customers - Apple,0.0,0.0,0.0
+8,2019-09-10 07:00:00,"Apple TV+ launches November 1, featuring originals from the world’s greatest storytellers - Apple",0.8555,0.237,0.0
+9,2019-11-13 08:00:00,"Apple introduces 16-inch MacBook Pro, the world’s best pro notebook - Apple",0.8555,0.268,0.0
+10,2020-03-13 07:00:00,Apple’s WWDC 2020 kicks off in June with an all-new online format - Apple,0.0,0.0,0.0
+11,2020-03-18 07:00:00,Apple unveils new iPad Pro with LiDAR Scanner and trackpad support in iPadOS - Apple,0.6597,0.157,0.0
+12,2020-03-27 07:00:00,Apple releases new COVID-19 app and website based on CDC guidance - Apple,0.0,0.0,0.0
+13,2020-04-10 07:00:00,Apple and Google partner on COVID-19 contact tracing technology - Apple,0.0,0.0,0.0
+14,2020-04-15 07:00:00,iPhone SE: A powerful new smartphone in a popular design - Apple,0.8807,0.348,0.0
+15,2020-06-22 07:00:00,Apple announces Mac transition to Apple silicon - Apple,0.0,0.0,0.0
+16,2020-07-21 07:00:00,Apple commits to be 100 percent carbon neutral for its supply chain and products by 2030 - Apple,0.0516,0.059,0.0
+17,2020-08-04 07:00:00,Phil Schiller advances to Apple Fellow - Apple,0.0,0.0,0.0
+18,2020-09-07 07:00:00,Apple Marina Bay Sands opens Thursday in Singapore - Apple,0.0,0.0,0.0
+19,2020-09-15 07:00:00,Apple One makes enjoying Apple subscription services easier than ever - Apple,0.9081,0.371,0.0
+20,2020-11-10 08:00:00,Introducing the next generation of Mac - Apple,0.0,0.0,0.0
+21,2020-11-10 08:00:00,Apple unleashes M1 - Apple,0.0,0.0,0.0
+22,2020-11-18 08:00:00,Apple announces App Store Small Business Program - Apple,0.0,0.0,0.0
+23,2020-12-01 08:00:00,Apple presents App Store Best of 2020 winners - Apple,0.91,0.39,0.0
+24,2021-01-13 08:00:00,"Apple launches major new Racial Equity and Justice Initiative projects to challenge systemic racism, advance racial equity nationwide - Apple",-0.2023,0.179,0.156
+25,2021-01-27 08:00:00,Data Privacy Day at Apple: Improving transparency and empowering users - Apple,0.6808,0.196,0.0
+26,2021-04-02 07:00:00,Apple Arcade expands its award-winning catalog to more than 180 games - Apple,0.2023,0.101,0.0
+27,2021-04-07 07:00:00,Apple’s Find My network now offers new third-party finding experiences - Apple,0.0,0.0,0.0
+28,2021-04-20 07:00:00,Apple leads the next chapter of podcasting with Apple Podcasts Subscriptions - Apple,0.0,0.0,0.0
+29,2021-05-17 07:00:00,Apple Music announces Spatial Audio and Lossless Audio - Apple,0.0,0.0,0.0
+30,2021-05-19 07:00:00,Apple previews powerful software updates designed for people with disabilities - Apple,0.6808,0.196,0.0
+31,2021-06-07 07:00:00,"iOS 15 brings powerful new features to stay connected, focus, explore, and more - Apple",0.6808,0.162,0.0
+32,2021-11-17 08:00:00,Apple announces Self Service Repair - Apple,0.0,0.0,0.0
+33,2022-01-10 08:00:00,Apple services enrich peoples’ lives throughout the year - Apple,0.0,0.0,0.0
+34,2022-02-08 08:00:00,Apple unveils contactless payments via Tap to Pay on iPhone - Apple,-0.2023,0.0,0.109
+35,2022-03-08 08:00:00,Apple announces the new iPhone SE: a powerful smartphone in an iconic design - Apple,0.6808,0.162,0.0
+36,2022-03-23 07:00:00,Apple launches the first driver’s license and state ID in Wallet with Arizona - Apple,0.0,0.0,0.0
+37,2022-04-27 07:00:00,Apple’s Self Service Repair now available - Apple,0.0,0.0,0.0
+38,2022-05-17 07:00:00,"Apple previews innovative accessibility features combining the power of hardware, software, and machine learning - Apple",0.7003,0.158,0.0
+39,2022-06-06 07:00:00,"watchOS 9 delivers new ways to stay connected, active, and healthy - Apple",0.7964,0.252,0.0
+40,2022-06-06 07:00:00,Apple unveils an all-new Lock Screen experience and new ways to share and communicate in iOS 16 - Apple,0.5267,0.106,0.0
+41,2022-07-06 07:00:00,Apple expands industry-leading commitment to protect users from highly targeted mercenary spyware - Apple,0.8807,0.365,0.0
+42,2022-09-07 07:00:00,Apple introduces iPhone 14 and iPhone 14 Plus - Apple,0.0,0.0,0.0
+43,2022-11-10 08:00:00,Emergency SOS via satellite made possible by $450M Apple investment - Apple,-0.3818,0.0,0.098
+44,2022-11-15 08:00:00,Emergency SOS via satellite available today on the iPhone 14 lineup in the US and Canada - Apple,-0.3818,0.0,0.067
+45,2022-11-28 08:00:00,App Store Awards celebrate the best apps and games of 2022 - Apple,0.9712,0.509,0.0
+46,2022-12-06 08:00:00,Apple launches Self Service Repair in Europe - Apple,0.0,0.0,0.0
+47,2022-12-06 08:00:00,"Apple announces biggest upgrade to App Store pricing, adding 700 new price points - Apple",0.0,0.0,0.0
+48,2022-12-06 08:00:00,Apple introduces Apple Music Sing - Apple,0.0,0.0,0.0
+49,2022-12-07 08:00:00,Apple advances user security with powerful new data protections - Apple,0.8555,0.354,0.0
+50,2023-01-11 08:00:00,Introducing Apple Business Connect - Apple,0.0,0.0,0.0
+51,2023-03-07 08:00:00,"Hello, yellow! Apple introduces new iPhone 14 and iPhone 14 Plus - Apple",0.0,0.0,0.0
+52,2023-03-14 07:00:00,Apple introduces Shop with a Specialist over Video - Apple,0.0,0.0,0.0
+53,2023-05-02 07:00:00,"Apple, Google partner on an industry specification to address unwanted tracking - Apple",-0.4215,0.0,0.132
+54,2023-05-09 07:00:00,Apple brings Final Cut Pro and Logic Pro to iPad - Apple,-0.4939,0.0,0.154
+55,2023-05-16 07:00:00,"Apple previews Live Speech, Personal Voice, and more new accessibility features - Apple",0.0,0.0,0.0
+56,2023-06-05 07:00:00,Introducing Apple Vision Pro: Apple’s first spatial computer - Apple,0.4588,0.174,0.0
+57,2023-06-05 07:00:00,iOS 17 makes iPhone more personal and intuitive - Apple,0.0,0.0,0.0
+58,2023-09-12 07:00:00,Apple debuts iPhone 15 and iPhone 15 Plus - Apple,0.0,0.0,0.0
+59,2023-09-12 07:00:00,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max - Apple,0.0,0.0,0.0
+60,2023-09-12 07:00:00,Apple unveils its first carbon neutral products - Apple,0.0,0.0,0.0
+61,2024-01-08 08:00:00,Apple Vision Pro available in the U.S. on February 2 - Apple,0.4588,0.148,0.0
+62,2024-01-16 08:00:00,Apple previews new entertainment experiences launching with Apple Vision Pro - Apple,0.8225,0.314,0.0
+63,2024-01-25 08:00:00,"Apple announces changes to iOS, Safari, and the App Store in the European Union - Apple",0.0,0.0,0.0
+64,2024-02-21 08:00:00,"Introducing Apple Sports, a new app for sports fans - Apple",0.0,0.0,0.0
+65,2024-04-11 07:00:00,Apple to expand repair options with support for used genuine parts - Apple,0.8402,0.303,0.0
+66,2024-05-15 07:00:00,"Apple announces new accessibility features, including Eye Tracking, Music Haptics, and Vocal Shortcuts - Apple",0.0,0.0,0.0
+67,2024-06-10 07:00:00,"Introducing Apple Intelligence for iPhone, iPad, and Mac - Apple",0.7351,0.246,0.0
+68,2024-06-11 07:00:00,New features come to Apple services this fall - Apple,0.0,0.0,0.0
+69,2024-08-14 07:00:00,Developers can soon offer in-app NFC transactions using the Secure Element - Apple,-0.7241,0.131,0.242
+70,2024-09-09 07:00:00,"Apple Intelligence comes to iPhone, iPad, and Mac starting next month - Apple",0.7351,0.199,0.0
+71,2024-10-28 07:00:00,"Apple Intelligence is available today on iPhone, iPad, and Mac - Apple",0.7351,0.212,0.0
+72,2024-10-29 07:00:00,"Apple’s new Mac mini is more mighty, more mini, and built for Apple Intelligence - Apple",0.4767,0.088,0.0
+73,2024-11-11 08:00:00,Apple’s Find My enables sharing location of lost items with third parties - Apple,0.5719,0.225,0.125
+74,2025-02-04 08:00:00,"Introducing Apple Invites, a new app that brings people together for life’s special moments - Apple",0.6597,0.148,0.0
+75,2025-02-19 08:00:00,Apple debuts iPhone 16e: A powerful new member of the iPhone 16 family - Apple,0.6808,0.162,0.0
+76,2025-02-24 08:00:00,Apple will spend more than $500 billion in the U.S. over the next four years - Apple,0.0,0.0,0.0
+77,2025-03-25 07:00:00,Apple’s Worldwide Developers Conference returns the week of June 9 - Apple,0.0,0.0,0.0
+78,2025-05-13 07:00:00,Apple unveils powerful accessibility features coming later this year - Apple,0.6808,0.211,0.0
+79,2025-06-09 07:00:00,Apple Intelligence gets even more powerful with new capabilities across Apple devices - Apple,0.9079,0.331,0.0
+80,2025-06-09 07:00:00,watchOS 26 delivers more personalized ways to stay active and connected - Apple,0.6597,0.178,0.0
+81,2025-06-09 07:00:00,iPadOS 26 introduces powerful new features that push the capabilities and versatility of iPad even further - Apple,0.6808,0.138,0.0
+82,2025-06-09 07:00:00,"Apple supercharges its tools and technologies for developers to foster creativity, innovation, and design - Apple",0.8555,0.264,0.0
+83,2025-06-09 07:00:00,"macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever - Apple",0.8953,0.304,0.0
+84,2025-06-09 07:00:00,Apple elevates the iPhone experience with iOS 26 - Apple,0.0,0.0,0.0
+85,2025-06-10 07:00:00,Introducing the Apple Games app: A personalized home for games and playing with friends - Apple,0.6908,0.183,0.0
+86,2025-06-10 07:00:00,Apple services deliver powerful features and intelligent updates to users this fall - Apple,0.891,0.317,0.0
+87,2025-06-11 07:00:00,Apple expands tools to help parents protect kids and teens online - Apple,0.886,0.39,0.0
+88,2025-08-06 07:00:00,"Apple increases U.S. commitment to $600 billion, announces ambitious program - Apple",0.886,0.352,0.0
+89,2025-09-09 07:00:00,"Apple unveils iPhone 17 Pro and iPhone 17 Pro Max, the most powerful and advanced Pro models ever - Apple",0.8662,0.225,0.0
+90,2025-09-09 07:00:00,Apple debuts iPhone 17 - Apple,0.0,0.0,0.0
+91,2025-09-09 07:00:00,Memory Integrity Enforcement: A complete vision for memory safety in Apple devices - Apple Security Research,0.9485,0.439,0.0
+92,2025-09-09 07:00:00,"Introducing iPhone Air, a powerful new iPhone with a breakthrough design - Apple",0.6808,0.183,0.0
+93,2025-09-15 07:00:00,New versions of Apple’s software platforms are available today - Apple,0.0,0.0,0.0
+94,2025-10-10 07:00:00,"A major evolution of Apple Security Bounty, with the industry's top awards for the most advanced research - Apple Security Research",0.9627,0.419,0.0
+95,2025-10-15 07:00:00,Apple Vision Pro upgraded with the powerful M5 chip and comfortable Dual Knit Band - Apple,0.9349,0.375,0.0
+96,2025-10-15 07:00:00,"Apple unveils new 14‑inch MacBook Pro powered by the M5 chip, delivering the next big leap in AI for the Mac - Apple",0.0,0.0,0.0
+97,2025-10-15 07:00:00,"Apple unleashes M5, the next big leap in AI performance for Apple silicon - Apple",0.0,0.0,0.0
+98,2025-11-19 08:00:00,Apple announces finalists for the 2025 App Store Awards - Apple,0.4588,0.12,0.0
+99,2025-12-17 08:00:00,Apple announces changes to iOS in Japan - Apple,0.0,0.0,0.0
